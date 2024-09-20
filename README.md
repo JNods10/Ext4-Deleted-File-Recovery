@@ -14,7 +14,7 @@ run using python and extended to allow for the recovery of larger and more compl
 
 ## Background
 
-The Ext4 file system is widely used in Linux environments. However, deleted files are not immediately erased from the disk, making recovery possible through forensic techniques.  A crucial difference between Ext4 and previous file system versions is the implementation of journaling for file system changes.  The journal creates the imperative to figure out a new technique and method to recover
+The Ext4 file system is widely used in Linux environments. However, deleted files are not immediately erased from the disk, making recovery possible through forensic techniques.  A crucial difference between Ext4 and previous file system versions is the implementation of journaling for file system changes.  The change to journaling creates the imperative to figure out a new technique and method to recover
 deleted files.  Some tools exist but lack comprehensiveness and are no longer maintained.  This project was developed to provide the stepping stones toward a reliable solution for recovering deleted files from Ext4 file systems.
 
 ## Recognition
