@@ -22,5 +22,5 @@ deleted files.  Some tools exist but lack comprehensiveness and are no longer ma
 I am proud to announce that this work was accepted to the **2024 DFRWS** (Digital Forensics Research Workshop), the premier digital forensics conference in the world, held at Louisiana State University (LSU). Additionally, I was awarded a scholarship from the **National Science Foundation (NSF)** to attend this conference and present my work.
 
 ## License
-
-https://creativecommons.org/
+Ext4 Deleted File Recovery Tool © 2024 by Joshua Nodler and Dr. Sankardas Roy is licensed under CC BY 4.0.
+Further information regarding exact rules and implications can be found at https://creativecommons.org/
